@@ -1,0 +1,48 @@
+.body-container {
+    background-color: rgba(20, 20, 20, 1);
+}
+.container {
+    display: flex;
+    justify-content: flex-end;
+}
+.container-form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.viewtrailer{
+    display: flex;
+    flex-direction: column-reverse;
+    background-size: cover;
+}
+.boton-trailer{
+    padding: 10px;
+    width: 200px;
+    border-radius: 7px;
+    background: white;
+    border: none;
+}
+.boton-trailer:hover{
+    background-color: rgba(216, 206, 204, 1);
+}
+.container-trailer{
+    margin: 20px;
+}
+.trailer-info{
+    margin-top: 15px;
+    width: 50%;
+    background-color:rgba(109, 109, 110, 0.7);
+    opacity: 70%;
+}
+.reproductorContainer{
+    height: 59vh;
+}
+.boton{
+    padding: 10px;
+    width: 200px;
+    border-radius: 7px;
+    background: white;
+    border: none;
+}
+
+
